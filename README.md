@@ -1,4 +1,9 @@
-### Hi there 👋
+![Logo](https://www.juanfernandes.uk/apple-touch-icon.png)
+
+# Juan Fernandes
+## Freelance Frontend Developer
+
+👋 Hey, I'm Juan — a freelance front-end developer with over 12 years of experience. I design & develop responsive websites using industry best practices and standards.
 
 <!--
 **juanfernandes/juanfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: hello@juanfernandes.uk
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
